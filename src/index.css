@@ -13,6 +13,15 @@
   color: whitesmoke;
 }
 
+.Footer {
+  background: #333;
+  color: whitesmoke;
+}
+
+.AnimeApi {
+  background: blue;
+}
+
 * {
   padding: 0;
   margin: 0;
